@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Mark here. Just learning about computer science and how i'm gonna kill it soon
+Mark here. Just learning about computer science
 
-Learning how to do pull requests ¯\_(ツ)_/¯
+Practicing pull requests ¯\_(ツ)_/¯
